@@ -30,5 +30,5 @@ This Repository will be used to get a slight insight on how to begin webpage dev
 ## Contributors
 I am Chatur Veda Vyas Kurma, Graduate student in NWMSU Major in Applied Computer Science
 
-A big fan of Cricketer M>S Dhoni
+A big fan of Cricketer M.S Dhoni
 ![vscode image](https://awallpaperfree.com/wp-content/uploads/2018/09/ms.jpg)
