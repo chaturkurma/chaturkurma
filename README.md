@@ -22,12 +22,12 @@ This Repository will give a slight insight on how to begin webpage development. 
 
 ## Recommeded Resources
 
-- [Git](https://git-scm.com/ "Git - homepage"): Git is a free and open source distributed version control system.
-- [WordPress](https://wordpress.com/ "WordPress - homepage"): WordPress is a 'anyone can use' simplified website publishing program.
-- [jQuery](https://jquery.com/ "jQuery - homepage"): jQuery is a JavaScript extension library.
-- [Treehouse.com](https://teamtreehouse.com/)
-- [Lynda.com](https://www.lynda.com/)
-- [Mozilla Developer](https://developer.mozilla.org/en-US/docs/Learn)
+1. [Git](https://git-scm.com/ "Git - homepage"): Git is a free and open source distributed version control system.
+1. [WordPress](https://wordpress.com/ "WordPress - homepage"): WordPress is a 'anyone can use' simplified website publishing program.
+1. [jQuery](https://jquery.com/ "jQuery - homepage"): jQuery is a JavaScript extension library.
+1. [Treehouse.com](https://teamtreehouse.com/)
+1. [Lynda.com](https://www.lynda.com/)
+1. [Mozilla Developer](https://developer.mozilla.org/en-US/docs/Learn)
 
 
 
