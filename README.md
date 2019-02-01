@@ -2,9 +2,9 @@
 
 ## Repository Links
 
-[webpage](https://github.com/chaturkurma/chaturkurma/blob/master/README.md)
+1. [webpage](https://github.com/chaturkurma/chaturkurma/blob/master/README.md)
 
-[Source](https://github.com/chaturkurma/chaturkurma/tree/master)
+1. [Source](https://github.com/chaturkurma/chaturkurma/tree/master)
 
 
 ## About
@@ -20,7 +20,10 @@ This Repository will give a slight insight on how to begin webpage development. 
 1. [JavaScript](https://www.w3schools.com/js/ "w3school JavaScript"): JavaScript is a programming language. 
 1. [Notepad ++](https://notepad-plus-plus.org/)
 
-## Recommeded Resources
+## Recommeded Resources     
+
+
+
 
 1. [Git](https://git-scm.com/ "Git - homepage"): Git is a free and open source distributed version control system.
 1. [WordPress](https://wordpress.com/ "WordPress - homepage"): WordPress is a 'anyone can use' simplified website publishing program.
