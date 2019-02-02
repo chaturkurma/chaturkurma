@@ -2,7 +2,7 @@
 
 ## Repository Links
 
-1. [webpage](https://github.com/chaturkurma/chaturkurma/blob/master/README.md)
+1. [webpage](https://chaturkurma.github.io/chaturkurma/)
 
 1. [Source](https://github.com/chaturkurma/chaturkurma/tree/master)
 
