@@ -4,7 +4,7 @@
 
 1. [webpage](https://chaturkurma.github.io/chaturkurma/)
 
-1. [Source](https://github.com/chaturkurma/chaturkurma/tree/master)
+1. [Source](https://github.com/chaturkurma/chaturkurma)
 
 1. [Github Repo1](https://denisecase.github.io/get-setup-with-chocolatey/)
  
