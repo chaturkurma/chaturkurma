@@ -6,11 +6,11 @@
 
 1. [Source](https://github.com/chaturkurma/chaturkurma/tree/master)
 
-1. [Github Page1](https://denisecase.github.io/get-setup-with-chocolatey/)
+1. [Github Repo1](https://denisecase.github.io/get-setup-with-chocolatey/)
  
-1. [Github Page2](https://github.com/chaturkurma/aboutme)
+1. [Github Repo2](https://github.com/chaturkurma/aboutme)
 
-1. [Github Page3](https://github.com/chaturkurma/ganesh5800)
+1. [Github Repo3](https://github.com/chaturkurma/ganesh5800)
 
 
 
